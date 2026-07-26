@@ -6,7 +6,7 @@ Windows 上で複数の VPN / プロキシクライアントを管理・切替�
 
 | No. | クライアント | 種別 |
 |-----|-------------|------|
-| 1   | 农夫山泉 farmer | VPN (TUN 対応) |
+| 1   | farmer | VPN (TUN 対応) |
 | 2   | Clash Verge | VPN (TUN 対応) |
 | 3   | v2rayN | プロキシ |
 | 4   | Quark | プロキシ |
